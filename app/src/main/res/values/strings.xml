@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="textWelcome">Welcome to my App</string>
+    <string name="descriptionImage" translatable="false">MakeUp</string>
+    <string name="TestoBienvenida">Tu tienda favorita</string>
+    <string name="testWelcome">Your favorite App</string>
+</resources>
